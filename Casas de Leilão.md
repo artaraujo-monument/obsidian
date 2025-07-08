@@ -1,0 +1,12 @@
+
+-> Verifcar sites confiáveis de leilão
+-> Valor da casa
+	- Estado da casa
+	- Localização
+	- Dívidas
+	- Inquilinos anteriores
+-> Advogado e trâmites jurídicos
+-> Casa é a melhor porta de entrada pra entender como um leilão funciona?
+	- Pensar em objetos menores, e mais baratos já que é uma grana que podemos perder
+	- Claro que cada ambiente tem uma particularidade
+	- 
